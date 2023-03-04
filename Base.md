@@ -1,9 +1,11 @@
 # Команда Base: ручное тестирование проекта [Reazon](https://www.reazon.ru/)
 
 Тестовое окружение: 
-1. Ubuntu, Chrome 110.0.5481.96
-2. Ubuntu, Chrome 110.0.5481.100
-3, 4, 5, 6, 7. Ubuntu, Chrome 109.0.5414.119
+<ul style="list-style-type: none;">
+ <li> 1. Ubuntu, Chrome 110.0.5481.96 </li>
+ <li> 2. Ubuntu, Chrome 110.0.5481.100 </li>
+ <li> 3, 4, 5, 6, 7. Ubuntu, Chrome 109.0.5414.119 </li>
+</ul>
 
 Тестируемые части:
 1. Корзина
