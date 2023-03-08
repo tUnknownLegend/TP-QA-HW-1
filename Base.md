@@ -9,19 +9,19 @@
 </ul>
 
 Тестируемые части:
-1. [Страница заказов](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2)
-2. [Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
-3. [Категории](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8)
-4. [Страница поиска](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0)
-5. [Страницы авторизации](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
-6. [Страница товара](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#c%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0)
+1. [Страница заказов](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2)
+2. [Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
+3. [Категории](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8)
+4. [Страница поиска](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0)
+5. [Страницы авторизации](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
+6. [Страница товара](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#c%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0)
 7. [Страница просмотра отзывов](https://www.reazon.ru/comment/43)
-8. [Страница написания отзыва](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#c%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%B0)
-9. [Главная](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F)
-10. [Хедер](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D1%85%D0%B5%D0%B4%D0%B5%D1%80)
-11. [Футер](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D1%84%D1%83%D1%82%D0%B5%D1%80)
-12. [Страница профиля](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#c%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F)
-13. [Корзина](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%BA%D0%BE%D1%80%D0%B7%D0%B8%D0%BD%D1%8B)
+8. [Страница написания отзыва](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#c%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%B0)
+9. [Главная](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F)
+10. [Хедер](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D1%85%D0%B5%D0%B4%D0%B5%D1%80)
+11. [Футер](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D1%84%D1%83%D1%82%D0%B5%D1%80)
+12. [Страница профиля](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#c%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F)
+13. [Корзина](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%BA%D0%BE%D1%80%D0%B7%D0%B8%D0%BD%D1%8B)
 
 # Общие паттерны
 - Цвет акцента ![#f03c15](https://placehold.co/15x15/6369d1/6369d1.png) `#6369d1`
@@ -183,9 +183,9 @@
         - Помещается на карточке целиком, если меньше трех строк в высоту
         - Обрезается тремя точками в конце, если больше трех строк в высоту
       - Кнопка в корзину
-        - Аналогично блоку "Цена и добавление в корзину"
+        - Аналогично блоку ["Цена и добавление в корзину"](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D1%86%D0%B5%D0%BD%D0%B0-%D0%B8-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%BA%D0%BE%D1%80%D0%B7%D0%B8%D0%BD%D1%83)
       - Звездочка с оценкой товара
-         - поведение аналогично блоку "Название товара"
+         - поведение аналогично блоку ["Название товара"](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0)
         
 # [Cтраница просмотра отзывов](https://www.reazon.ru/comment/43)
 ### Название товара
@@ -208,7 +208,7 @@
 # [Cтраница написания отзыва](https://www.reazon.ru/addcomment/214)
 ### Название товара
 ![item-write-review-description](https://user-images.githubusercontent.com/57019979/221988092-e0abc056-30d1-4321-b99c-d40a190695c7.png)
-      - Полностью аналогичен блоку "Название товара" со страницы написания отзыва
+      - Полностью аналогичен блоку ["Название товара"](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0)
  - *Баг.* Если пользватель неавторизован, то название вкладки отображается как "- Отзыв, Reazon"
     ![image](https://user-images.githubusercontent.com/57019979/221974100-bb37c8af-26c2-4f67-b885-05b375289e18.png)
     - *Корректое поведение.* Отображается название вкладки формата "название товара - Отзыв, Reazon"  
@@ -237,7 +237,7 @@
      - *Корректное поведение.* Загружаются карточки со спиннером, затем они заполняются информацией    
  ### Карусели
  ![image](https://user-images.githubusercontent.com/57019979/222380917-9cf8b62c-e959-4640-8fa2-12850bff4e7a.png)
-   - Аналогично карусели в блоке "Рекомендации" со страницы товара
+   - Аналогично карусели в блоке ["Рекомендации"](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8)
 
 # Хедер
 ![image](https://user-images.githubusercontent.com/57019979/221990770-23311a5a-be0d-4764-b995-568764dbeee6.png)
