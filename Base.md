@@ -88,25 +88,25 @@
 ### Общее
 - Все товары на странице категории относятся к категории, соответствующей странице.
 - Сортировки аналогичны сортировкам из раздела "Избранное".
-[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
+[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
 ### Карточка товара
 Аналогично карточке товара из раздела "Избранное".
-[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
+[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
 ### Рекомендация товара
 Аналогично рекомендации товара из раздела "Избранное".
-[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
+[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
 
 # [Страница поиска](https://www.reazon.ru/search?q=%D1%82%D0%B5%D0%BB)
 ### Общее
 - Все предоставленные на странице товары могут быть найдены строкой из поиска.
 - Сортировки аналогичны сортировкам из раздела "Избранное".
-[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
+[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
 ### Карточка товара
 Аналогично карточке товара из раздела "Избранное".
-[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
+[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
 ### Рекомендация товара
 Аналогично рекомендации товара из раздела "Избранное".
-[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/favorite/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
+[Избранное](https://github.com/tUnknownLegend/TP-QA-HW-1/blob/Base/Base.md#%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5)
 
 # [Авторизация](https://www.reazon.ru/login)
 ### Авторизация
