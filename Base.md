@@ -209,7 +209,7 @@
 ![item-review-description](https://user-images.githubusercontent.com/57019979/221988217-d64e579d-6ee8-4094-89af-32c29938e2d7.png)
  - Блоки "Название товара" и "Цена и добавление в корзину" со страницы товара, объедененные в один, 
  - Слева от блоков "Название товара" и "Цена и добавление в корзину" добавляется фото
- - При клике на фото открывается страница [товара](https://github.com/tUnknownLegend/TP-QA-HW-1/edit/Base/Base.md#c%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B0)
+ - При клике на фото открывается страница [товара](https://www.reazon.ru/product/43)
 ### Отзывы
 ![read-review](https://user-images.githubusercontent.com/57019979/221988118-24507d47-40d2-495e-8895-e91eb23ae77d.png)
  - Кнопка оставить отзыв
