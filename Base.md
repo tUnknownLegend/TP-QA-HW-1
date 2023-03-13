@@ -40,7 +40,7 @@
 
 # Как проверить перенрдривается ли компонент
 - Открываем inspect, нажав `ctrl + shift + P`
-- [Открыть](https://developer.chrome.com/docs/devtools/rendering/) вкладку рендра
+- [Открыть](https://developer.chrome.com/docs/devtools/rendering/) вкладку рендера
 - Выбрать `Paint Flashing`
   ![image](https://user-images.githubusercontent.com/57019979/224580072-98f7c584-0fbf-4817-b5cb-f9087fd66ae3.png)
 
